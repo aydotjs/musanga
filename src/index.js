@@ -4,7 +4,7 @@ import './index.css';
 
 
 const App = () => {
-  return <h1>Hello World, this is the main branch</h1>
+  return <h1>Hello World!</h1>
 }
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
